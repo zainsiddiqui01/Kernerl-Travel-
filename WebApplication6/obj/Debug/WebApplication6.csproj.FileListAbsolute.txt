@@ -1,0 +1,31 @@
+c:\users\aptechuni\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+c:\users\aptechuni\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\aptechuni\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\aptechuni\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\aptechuni\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\aptechuni\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\APTECHUNI\Desktop\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\APTECHUNI\Desktop\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\APTECHUNI\Desktop\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\APTECHUNI\Desktop\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\APTECHUNI\Desktop\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\APTECHUNI\Desktop\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\student\Desktop\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\student\Desktop\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\student\Desktop\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\student\Desktop\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\student\Desktop\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+\\SHARE-PC\Share Folder For Student\Hassan Uddin\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+\\SHARE-PC\Share Folder For Student\Hassan Uddin\WebApplication6\WebApplication6\bin\WebApplication6.dll
+\\SHARE-PC\Share Folder For Student\Hassan Uddin\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+\\SHARE-PC\Share Folder For Student\Hassan Uddin\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+\\SHARE-PC\Share Folder For Student\Hassan Uddin\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+\\SHARE-PC\Share Folder For Student\Hassan Uddin\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\HP\OneDrive\Desktop\my apps\WebApplication6 (1)\WebApplication6\WebApplication6\bin\WebApplication6.pdb
